@@ -53,7 +53,7 @@ apply plugin: 'com.getkeepsafe.dexcount'
 apply plugin: 'org.mozilla.rust-android-gradle.rust-android'
 apply plugin: 'org.owasp.dependencycheck'
 
-group = 'cash.z.android.wallet'
+group = 'com.github.Diesmaster'
 version = '1.0.0-beta03'
 
 repositories {
